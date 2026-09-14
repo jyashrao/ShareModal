@@ -3,6 +3,8 @@ const overlay=document.querySelector(".overlay");
 
 
 const openModal=()=>{
+
+    
     console.log('Modal is open');
     modal.classList.add("active");
 

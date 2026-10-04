@@ -9,6 +9,8 @@ const openModal=()=>{
     modal.classList.add("active");
 
     
+
+    
     
     overlay.classList.add("overlayactive");
 }; 

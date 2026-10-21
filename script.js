@@ -22,6 +22,8 @@ const closeModal=()=>{
 
     
 
+
+    
     
     overlay.classList.remove("overlayactive");
 };

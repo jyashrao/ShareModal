@@ -17,6 +17,8 @@ const openModal=()=>{
     overlay.classList.add("overlayactive");
 }; 
 
+
+
 const closeModal=()=>{
     modal.classList.remove("active");
 
